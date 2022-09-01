@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "gabino",
+    "precio": "320",
+    "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc4ec213b/products/RE_H11299/RE_H11299_1.JPG",
+    "id": 2
+  },
+  {
+    "nombre": "1",
+    "precio": "1",
+    "thumbnail": "1",
+    "id": 2
+  }
+]

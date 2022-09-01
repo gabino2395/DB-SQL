@@ -1,0 +1,22 @@
+[
+  {
+    "mail": "die@gmail.com",
+    "message": "hola",
+    "id": 6
+  },
+  {
+    "mail": "die@gmail.com",
+    "message": "hola",
+    "id": 2
+  },
+  {
+    "mail": "die@gmail.com",
+    "message": "buenos dias",
+    "id": 3
+  },
+  {
+    "mail": "diego@gmail.com",
+    "message": "hola",
+    "id": 4
+  }
+]
